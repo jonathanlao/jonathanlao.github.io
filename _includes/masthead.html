@@ -4,6 +4,9 @@
   {% assign metadata_styles = 'd-flex flex-items-center mb-3' %}
 {% endif %}
 
+<!--For some reason it's not pulling my email from github. Manually hardcoding.-->
+{% assign email = 'jonathan.lao1992@gmail.com' %}
+
 <img src="{{ user.avatar_url }}" class="circle mb-3" style="max-width: 150px;">
 <h1 class="{% if site.style == 'dark' %}text-white{% endif %} mb-2 lh-condensed">{% if user.name %}{{ user.name }}{% else %}{{ user.login }}{% endif %}</h1>
 <p class="mb-3 f4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">
@@ -20,11 +23,11 @@
         </a>
       </div>
     {% endif %}
-    {% if user.email %}
+    {% if email %} <!--replace email with user.email if fetching from github-->
       <div class="{{ metadata_styles }}">
         {% octicon mail height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:email %}
-        <a href="mailto:{{ user.email }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
-          {{ user.email }}
+        <a href="mailto:{{ email }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
+          {{ email }}
         </a>
       </div>
     {% endif %}
@@ -52,3 +55,5 @@
     {% endif %}
   </div>
 {% endif %}
+
+{"avatar_url"=>"https://avatars2.githubusercontent.com/u/15858541?v=4", "bio"=>nil, "blog"=>"https://jonathanlao.github.io/", "collaborators"=>nil, "company"=>nil, "created_at"=>2015-11-15 15:33:23 UTC, "description"=>nil, "email"=>nil, "followers"=>0, "following"=>0, "has_organization_projects"=>nil, "has_repository_projects"=>nil, "hireable"=>nil, "html_url"=>"https://github.com/jonathanlao", "id"=>15858541, "is_verified"=>nil, "location"=>"Brooklyn, NY", "login"=>"jonathanlao", "name"=>nil, "node_id"=>"MDQ6VXNlcjE1ODU4NTQx", "public_gists"=>1, "public_repos"=>8, "type"=>"User", "updated_at"=>2020-04-24 15:17:30 UTC}
