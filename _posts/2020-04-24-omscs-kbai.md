@@ -7,7 +7,7 @@ published: true
 
 The entire syllabus can be viewed [here](http://lucylabs.gatech.edu/kbai/). 
 
-A small aside: I'm a strong believer that all classes should have the entire syllabus available from the start. Classes rarely change much from semester-to-semester and one of OMSCS's biggest advantages is the ability to do your school on your own schedule. While I am sure there are some logistic issues to work out, releasing assignments week-to-week creates an unneccessary artificial time constraint on students. While other classes will suffer from poor communication and unclear requirements, David Joyner's courses are always exceptionally well-run.
+A small aside: I'm a strong believer that all classes should have the entire syllabus available from the start. Classes rarely change much from semester-to-semester and one of OMSCS's biggest advantages is the ability to do your school on your own schedule. While I am sure there are some logistic issues to work out, releasing assignments week-to-week creates an unnecessary artificial time constraint on students. While other classes will suffer from poor communication and unclear requirements, David Joyner's courses are always exceptionally well-run.
 
 As for the class itself, it is more theory than practical/technical. The biggest complaints of the course is that the programming projects are only peripherally related to the content, which I think is valid, and that there is too much paper writing, which I do not think is valid. While most of your OMSCS work will be programming-based, being able to competently  read research and write papers are absolutely vital skills for to a grad student. Frankly, I think those who are turned off by this aspect of the course are just not particularly good at these skills - and they should get take this class to get better at it.
 
@@ -29,5 +29,5 @@ This is very much a 'get out what you put in' type of class. For the project, yo
 
 - For exams: 
   - A common complaint was 'tricky' wording. Personally I did not have much trouble with them, and I think I probably benefited from being a native English speaker who has grown up in America taking standardized tests. The best advice I can give is this: the exam is multiple choice and some of the choices will be made up of compound sentences. If any part of the compound sentence is untrue, then that the choice is not correct. Sounds simple, but it helped me with the exams and I hope it might help you. 
-  
+
   - Even if you struggle with the exams, they are worth so little of your grade that you can fail them and still get an A in the course. They are open book and open internet and it can be argued that you don't even need to study for them.
