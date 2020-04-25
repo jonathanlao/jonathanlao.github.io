@@ -5,11 +5,11 @@ published: true
 
 ## Overview ##
 
-The entire syllabus can be viewed [here](http://lucylabs.gatech.edu/kbai/). 
+The entire syllabus can be viewed [here](http://lucylabs.gatech.edu/kbai/). While other classes can suffer from poor communication and unclear requirements, David Joyner's courses are always exceptionally well-run.
 
-A small aside: I'm a strong believer that all classes should have the entire syllabus available from the start. Classes rarely change much from semester-to-semester and one of OMSCS's biggest advantages is the ability to do your school on your own schedule. While I am sure there are some logistic issues to work out, releasing assignments week-to-week creates an unnecessary artificial time constraint on students. While other classes will suffer from poor communication and unclear requirements, David Joyner's courses are always exceptionally well-run.
+A small aside: I'm a strong believer that all classes should have the entire syllabus available from the start. Classes rarely change much from semester-to-semester and one of OMSCS's biggest advantages is the ability to do your school work on your own schedule. While I am sure there are some logistic issues to work out, releasing assignments week-to-week creates an unnecessary artificial time constraint on students. 
 
-As for the class itself, it is more theory than practical/technical. The biggest complaints of the course is that the programming projects are only peripherally related to the content, which I think is valid, and that there is too much paper writing, which I do not think is valid. While most of your OMSCS work will be programming-based, being able to competently  read research and write papers are absolutely vital skills for to a grad student. Frankly, I think those who are turned off by this aspect of the course are just not particularly good at these skills - and they should get take this class to get better at it.
+As for the class itself, it is more theory than practical/technical. The biggest complaints of the course is that the programming projects are only peripherally related to the content, which I think is valid, and that there is too much paper writing, which I do not think is valid criticism. While most of your OMSCS work will be programming-based, being able to competently  read research and write papers are absolutely vital skills for to a grad student. Frankly, I think those who are turned off by this aspect of the course are just not particularly good at these skills - and they should take this class to get better at it.
 
 This is very much a 'get out what you put in' type of class. For the project, you can really spend endless time fine-tuning your AI to be able to solve all the possible problems. There's also tons of optional readings that I'm sure are interesting if I had decided to read them. The reviews of this course show a wide variance in the number of hours spent on it. But the amount of work to simply get an A in the course is minimal.
 
@@ -23,7 +23,7 @@ This is very much a 'get out what you put in' type of class. For the project, yo
   - You can get full credit with some pretty dumb algorithms. I only needed minimal adjustments from my Project 1 submission to solve the problems for Project 2 and Project 3.
 
 - For papers: 
-  - Spend time to get JDF format exactly correct for your first writing assignment. After that, you can copy and paste for future assignments. Yes it will take time, but formatting issues is a dumb reason to get points off.
+  - Spend time to get JDF format exactly correct for your first writing assignment. After that, you can copy and paste the formatting for future assignments. Yes it will take time, but formatting issues is a dumb reason to get points off.
 
   - Remember a TA is probably spending five minutes looking through your paper and following a rubric. To get full credit, it is much more important to make sure you address every question than it is for you to write something insightful. Every section of the homework will have many questions. I recommend taking every question, make it a bolded header in your paper, and be sure to write at least a couple lines addressing that question. It will help you ensure you've hit every talking point, and it helps your TA follow along her rubric.
 
